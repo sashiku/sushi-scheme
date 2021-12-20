@@ -4,5 +4,5 @@
 
 Palette | :art: | Hex | RGB | HSL | LCH |
 ---     |---    |---  |---  |---  |---  |
-Background |
-Foreground
+Background | ![sushi](Assets/Rectangle 2034.png)
+Foreground |
