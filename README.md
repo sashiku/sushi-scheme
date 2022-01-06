@@ -1,6 +1,6 @@
 # sushi-scheme
 
-A color scheme where the dark mode contrast is dialed down. The contrast still compliant acessibility guidelines. 
+A color scheme where the dark mode contrast is dialed down while being compliant with acessibility guidelines. 
 
 Palette | :art: | Hex | RGB | HSL | LCH |
 ---     |---    |---  |---  |---  |---  |
